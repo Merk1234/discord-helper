@@ -95,5 +95,5 @@ break;
 }
 });
 
- bot.login(Token);
+ bot.login(process.env.BOT_TOKEN);
  console.log("\x1b[33m", "Helper bot has started!");
