@@ -1,0 +1,18 @@
+{
+  "name": "bot",
+  "version": "1.0.0",
+  "description": "Used for discord purposes.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark Henderson",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.3.2",
+    "enmap": "^2.6.3",
+    "enmap-level": "^2.1.0",
+    "enmap-rethink": "^2.1.1",
+    "roblox-js": "^4.0.2"
+  }
+}
